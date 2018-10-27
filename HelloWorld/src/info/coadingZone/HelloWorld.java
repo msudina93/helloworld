@@ -2,7 +2,7 @@ package info.coadingZone;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello Mohan sandeep Sudina");
+		System.out.println("Alternate Unniverse!");
 
 	}
 
